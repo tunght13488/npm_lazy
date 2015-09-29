@@ -48,11 +48,11 @@ module.exports = {
   // Remote and local URL
 
   // external url to npm_lazy, no trailing /
-  externalUrl: 'http://localhost:8080',
+  externalUrl: 'http://localhost:4873',
   // registry url with trailing /
   remoteUrl: 'https://registry.npmjs.org/',
   // bind port and host
-  port: 8080,
+  port: 4873,
   host: '0.0.0.0',
 
   // Proxy config
