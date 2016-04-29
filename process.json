@@ -1,0 +1,14 @@
+{
+  "apps": [
+    {
+      "name": "npm_lazy",
+      "script": "server.js",
+      "watch": true,
+      "ignore_watch": [
+        ".git",
+        "node_modules"
+      ],
+      "combine_logs": true
+    }
+  ]
+}
